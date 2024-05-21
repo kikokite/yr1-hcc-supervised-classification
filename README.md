@@ -21,7 +21,7 @@ The dataset used in this project contains real patient data from the Coimbra Hos
 
 ## Required software and libraries
 
-- Python 3
+- Python 3.12
 - Jupyter Notebook
 - Matplotlib
 - Scikit-learn

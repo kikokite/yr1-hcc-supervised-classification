@@ -1,28 +1,43 @@
-# Data-exploration-and-enrichment-for-supervised-classification
-# The Hepatocellular Carcinoma Dataset
+# 🧬 HCC Supervised Classification
 
-**Work by:** Francisco Carqueija - 202205113, Pedro Pereira - 202307836 e Simão Gomes - 202304752 
+**Hepatocellular Carcinoma (HCC) Survival Prediction** — a supervised learning project predicting 1-year patient survival using clinical and lifestyle data.
 
-**Deadline:** 21/05/2024
+**Authors:** Francisco Carqueija, Pedro Pereira, Simão Gomes  
+**Deadline:** 21/05/2024  
 
 ---
 
-## Project overview
+## 📘 Project Overview
 
-Data Science has many applications in our daily lives, including in not so obvious areas like in medicine. In this project, we aim to predict the livelihood of patients diagnosed with Hepatocellular Carcinoma (HCC) using a dataset from the Coimbra Hospital and University Center. This dataset contains information about the patients' lifestyle, medical findings and levels, and overall data that is useful for our goal: finding if the patient is alive in a 1-year period.
+This project explores **real-world medical data** from the Coimbra Hospital and University Center to predict patient survival after one year.  
+It focuses on **data exploration, preprocessing, feature selection**, and applying **supervised learning models** to obtain accurate predictions.
 
-## Objective
+---
 
-The objective of this project is to utilize various data cleaning and selection methods, along with different data modeling techniques, to predict patient survival within a one-year period. We will compare these models using different evaluation metrics to determine the most effective approach.
+## 🎯 Objectives
 
-## Dataset
+- Clean and preprocess HCC patient data.  
+- Apply feature selection and engineering techniques.  
+- Train and evaluate multiple supervised models (e.g., SVM, Random Forest).  
+- Compare model performance using standard metrics and select the best approach.
 
-The dataset used in this project contains real patient data from the Coimbra Hospital and University Center. It includes information on the patients' lifestyle, medical findings, and various health metrics.
+---
 
-## Required software and libraries
+## 🗂 Dataset
 
-- Python 3.12
-- Jupyter Notebook
+- Contains **patient lifestyle, medical findings, lab results, and overall health metrics**.  
+- Goal: predict survival status after one year.  
+
+> ⚠️ This dataset contains **real patient information** — handle responsibly and ensure privacy.
+
+---
+
+## ⚙️ Requirements
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
 - Matplotlib
 - Scikit-learn
 - Numpy

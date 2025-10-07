@@ -1,6 +1,6 @@
 # 🧬 HCC Supervised Classification
 
-**Hepatocellular Carcinoma (HCC) Survival Prediction** — a supervised learning project predicting 1-year patient survival using clinical and lifestyle data.
+**Hepatocellular Carcinoma (HCC) Survival Prediction** is a supervised learning project predicting 1-year patient survival using clinical and lifestyle data.
 
 **Authors:** Francisco Carqueija, Pedro Pereira, Simão Gomes  
 **Deadline:** 21/05/2024  
